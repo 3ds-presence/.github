@@ -1,11 +1,12 @@
 # 3DS-Presence
-[Website](https://3ds-presence.top/) | [Discord](https://discord.com/npkgkVgzWF)
+[Website](https://3ds-presence.top/) | [Discord](https://discord.gg/npkgkVgzWF)
 
 Display the game you are playing on your Nintendo 3DS in your Discord status.
 
 ## How it works
 
 A custom firmware based on Luma3DS detects the current game on the console and sends its title, publisher and ID to a server. The server generates a Discord Rich Presence activity and posts it to your profile through the Discord API.
+
 Some games can also provide extra information about the current state of the game (like level, score, etc.) for a more detailed activity.
 
 ## Getting started
