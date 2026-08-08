@@ -2,6 +2,8 @@
 [Website](https://3ds-presence.top/) | [Discord](https://discord.gg/npkgkVgzWF)
 
 Display the game you are playing on your Nintendo 3DS in your Discord status.
+![](images/ex_rpc.png)
+![](images/ex_adv_rpc.png)
 
 ## How it works
 
@@ -26,6 +28,12 @@ Some games can also provide extra information about the current state of the gam
 | [Presence-Backend](https://github.com/3ds-presence/Presence-Backend) | API: Discord authentication, token management, Gateway connection |
 | [Activity-Generator](https://github.com/3ds-presence/Activity-Generator) | Rich Presence activity generation (basic and advanced Lua scripts) |
 | [Presence-Frontend](https://github.com/3ds-presence/Presence-Frontend) | Website: Discord login, configuration download, game logos |
+
+# TODO
+- [ ] Create a logo for the project
+- [ ] Create a better website
+
+Any suggestions ? Join the [Discord server](https://discord.gg/npkgkVgzWF).
 
 ## Contributing
 
