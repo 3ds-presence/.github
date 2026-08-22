@@ -30,9 +30,6 @@ Some games can also provide extra information about the current state of the gam
 | [Presence-Frontend](https://github.com/3ds-presence/Presence-Frontend) | Website: Discord login, configuration download, game logos |
 
 # TODO
-- [ ] Create a logo for the project
-- [ ] Create a better website
-
 Any suggestions ? Join the [Discord server](https://discord.gg/npkgkVgzWF).
 
 ## Contributing
