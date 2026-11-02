@@ -35,5 +35,5 @@ Any suggestions ? Join the [Discord server](https://discord.gg/npkgkVgzWF).
 ## Contributing
 
 - **Add game logos** in the [Presence-Frontend](https://github.com/3ds-presence/Presence-Frontend)
-- **Write Lua scripts** to enhance a game's activity, see [Activity-Generator](https://github.com/3ds-presence/Activity-Generator) and [RPC-AddOns](https://github.com/3ds-presence/RPC-AddOns)
+- **Write Lua scripts** to enhance a game's activity, see [Activity-Generator](https://github.com/3ds-presence/Activity-Generator)
 - **Report a bug** by opening an issue in the relevant repository
